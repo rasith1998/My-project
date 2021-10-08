@@ -1,7 +1,7 @@
 class Car:
-    brandCar=""
-    numberCar=""
-    def __init__(self, brandCar, numberCar):
-        self.brandCar = brandCar
+    brandwCar=""
+    numberwCar=""
+    def __init__(self, brandwCar, numberCar):
+        self.brandwCar = brandwCar
         self.numberCar = numberCar
        
